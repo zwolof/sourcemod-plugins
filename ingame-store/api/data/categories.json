@@ -1,0 +1,37 @@
+{
+	"categories":
+	[
+		{
+			"name": "Player Skins",
+			"access": "all"
+		},
+		{
+			"name": "Custom Weapons",
+			"access": "all"
+		}
+	],
+	"items":
+	[
+		{
+            "name": "Top Cat",
+			"type": "playermodel",
+			"price": 4000,
+			"flags": "abc",
+			"description": "Cool skin bruv"
+		},
+		{
+            "name": "Pepe",
+			"type": "playermodel",
+			"price": 4000,
+			"flags": "abc",
+			"description": "Cool skin bruv"
+		},
+		{
+            "name": "Minecraft Pickaxe",
+			"type": "knife",
+			"price": 6000,
+			"flags": "abc",
+			"description": "Cool knife bruv"
+		}
+	]
+}

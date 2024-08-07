@@ -1,0 +1,15 @@
+"Games"
+{
+	"csgo"
+	{
+		"Signatures"
+		{
+			"SetDefaultEquippedDefinitionItemBySlot"
+			{
+				"library"       "server"
+				"windows"       "\x55\x8B\xEC\x83\xE4\xF8\x51\x8B\x45\x0C\x53\x6B\x5D\x08\x39"
+				"linux"         "\x55\x89\xE5\x57\x56\x53\x83\xEC\x3C\x8B\x5D\x08\x8B\x45\x10"
+			}
+		}
+	}
+}

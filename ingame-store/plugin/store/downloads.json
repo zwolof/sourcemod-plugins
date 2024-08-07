@@ -1,0 +1,40 @@
+[
+	{
+		"item_id": 1,
+		"paths": {
+			"models": [
+				"models/player/custom_player/owston/narutoshippuden/madara/arms_madara.dx90.vtx",
+				"models/player/custom_player/owston/narutoshippuden/madara/arms_madara.mdl",
+				"models/player/custom_player/owston/narutoshippuden/madara/arms_madara.vvd",
+				"models/player/custom_player/owston/narutoshippuden/madara/edo_madara.dx90.vtx",
+				"models/player/custom_player/owston/narutoshippuden/madara/edo_madara.mdl",
+				"models/player/custom_player/owston/narutoshippuden/madara/edo_madara.phy",
+				"models/player/custom_player/owston/narutoshippuden/madara/edo_madara.vvd"
+			],
+			"materials": [
+				"materials/models/madara_jump_force/armure_bas.vmt",
+				"materials/models/madara_jump_force/armure_bas.vtf",
+				"materials/models/madara_jump_force/armure_haut.vmt",
+				"materials/models/madara_jump_force/armure_haut.vtf",
+				"materials/models/madara_jump_force/cheveux.vmt",
+				"materials/models/madara_jump_force/cheveux.vtf",
+				"materials/models/madara_jump_force/face.vmt",
+				"materials/models/madara_jump_force/face.vtf",
+				"materials/models/madara_jump_force/guitare.vmt",
+				"materials/models/madara_jump_force/guitare.vtf",
+				"materials/models/madara_jump_force/jupe.vmt",
+				"materials/models/madara_jump_force/jupe.vtf",
+				"materials/models/madara_jump_force/pantalon.vmt",
+				"materials/models/madara_jump_force/pantalon.vtf",
+				"materials/models/madara_jump_force/peau.vmt",
+				"materials/models/madara_jump_force/peau.vtf",
+				"materials/models/madara_jump_force/rinnegan.vmt",
+				"materials/models/madara_jump_force/rinnegan.vtf",
+				"materials/models/madara_jump_force/sharingan.vmt",
+				"materials/models/madara_jump_force/sharingan.vtf",
+				"materials/models/madara_jump_force/veste.vmt",
+				"materials/models/madara_jump_force/veste.vtf"
+			]
+		}
+	}
+]
